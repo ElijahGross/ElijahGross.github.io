@@ -1,0 +1,24 @@
+<!Doctype: HTML w/ Processing>
+
+<html>
+
+  <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UFT-8" />
+      <title>Processing Demo</title>
+      <script type="text/javascript" src="js/processing.js"></script>
+    </head>
+
+    <body>
+      <h1>PUT YOUR TITLE HERE</h1>
+      <p>ADD Description here</p>
+
+      <script type="text/processing">
+
+        /
+
+      </script>
+      <canvas id="sketch" style="border: 1px solid black;"></canvas>
+
+    </body>
+
+  <html>

@@ -14,7 +14,7 @@
 
       <script type="text/processing">
 
-        /int birdX, birdY, birdDiameter;
+        int birdX, birdY, birdDiameter;
 float birdVelocity;
 boolean gameOver = false;
 boolean gameWon = false;  // Add a variable to track if the game is won
@@ -267,7 +267,7 @@ class Button {
     return mx > x && mx < x + w && my > y && my < y + h;
   }
 }
-/
+
       </script>
       <canvas id="sketch" style="border: 1px solid black;"></canvas>
 
